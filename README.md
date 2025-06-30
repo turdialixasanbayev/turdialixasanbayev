@@ -28,7 +28,6 @@
 ### 📫 Men bilan bog‘lanish:
 
 - GitHub: [@turdalihasanboyev](https://github.com/turdalihasanboyev)
-- Telegram: [@turdalihasanboyev](https://t.me/turdalihasanboyev)
 - Email: turdalihasanboyev144@gmail.com
 
 ---
