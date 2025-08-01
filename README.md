@@ -1,4 +1,4 @@
-### 👋 Salom, men Turdali Hasanboyev
+### 👋 Salom, men Turdiali Xasanbayev
 
 💻 Backend dasturchi | ⚙️ Django & DRF | 🐳 Docker | 🛢️ PostgreSQL
 
@@ -27,14 +27,14 @@
 
 ### 📫 Men bilan bog‘lanish:
 
-- GitHub: [@turdalihasanboyev](https://github.com/turdalihasanboyev)
-- Email: turdalihasanboyev144@gmail.com
+- GitHub: [@turdialixasanbayev](https://github.com/turdialixasanbayev)
+- Email: turdialixasanbayev@gmail.com
 
 ---
 
 ### 📈 GitHub statistikasi:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turdalihasanboyev&show_icons=true&theme=github_dark&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turdialixasanbayev&show_icons=true&theme=github_dark&hide=contribs)
 
 ---
 
