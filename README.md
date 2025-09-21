@@ -49,10 +49,9 @@
 ### 🌐 Aloqa uchun
 
 - 🧑‍💻 GitHub: [@turdialixasanbayev](https://github.com/turdialixasanbayev)
-- 🦊 GitLab: [@turdialixasanbayev](https://gitlab.com/turdialixasanbayev)
 - 📧 Email: turdialixasanbayev@gmail.com
-- 📬 Telegram: [@turdialixasanbayev](https://t.me/turdialixasanbayev)
-- 📸 Instagram: [@turdiali_xasanbayev](https://instagram.com/turdiali_xasanbayev)
+- 📬 Telegram: [@xasanbayevturdiali](https://t.me/xasanbayevturdiali)
+- 📸 Instagram: [@turdialixasanbayev](https://instagram.com/turdialixasanbayev)
 - 🌍 Portfolio (tez orada...)
 
 ---
