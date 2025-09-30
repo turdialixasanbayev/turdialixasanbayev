@@ -10,7 +10,6 @@
 - 🗃️ **PostgreSQL** bilan toza va samarali ma’lumotlar bazasini loyihalashtiraman
 - 🐳 `Docker` va `docker-compose` yordamida mikroservislarni konteynerlashtiraman
 - 🔐 `JWT`, `Session`, `OTP` orqali foydalanuvchi autentifikatsiyasini ishlab chiqaman
-- 💳 To‘lov tizimlari (Payme, Click, Stripe) integratsiyasi bilan ishlayman
 - 🔁 Asinxron tasklar (`Celery` + `Redis`) va fon jarayonlar bilan ishlayman
 - 📃 Swagger / DRF Spectacular yordamida **API hujjatlari** yarataman
 - 🚀 `Nginx`, `Gunicorn`, `GitLab CI` orqali loyihalarni deploy qilaman
@@ -42,7 +41,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
 
 ---
 
@@ -51,7 +49,7 @@
 - 🧑‍💻 GitHub: [@turdialixasanbayev](https://github.com/turdialixasanbayev)
 - 📧 Email: turdialixasanbayev@gmail.com
 - 📬 Telegram: [@xasanbayevturdiali](https://t.me/xasanbayevturdiali)
-- 📸 Instagram: [@turdialixasanbayev](https://instagram.com/turdialixasanbayev)
+- 📸 Instagram: [@t_xasanbayev_404](https://instagram.com/t_xasanbayev_404)
 - 🌍 Portfolio (tez orada...)
 
 ---
