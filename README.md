@@ -1,112 +1,46 @@
-# 👋 Hi, I'm Turdiali Khasanbayev
+# Turdiali Khasanbayev
 
-### 🐍 Python Software Engineer
+Software Engineer — Python / Backend
 
-I’m a Software Engineer focused on building reliable and maintainable backend systems with **Python** and **Django**.
-
-I enjoy turning ideas into practical web applications, building APIs, working with databases, and deploying production-ready services.
-
-```bash
-$ whoami
-Turdiali Khasanbayev
-
-$ role
-Software Engineer
-
-$ primary_stack
-Python · Django · Django REST Framework
-
-$ environment
-Linux · PostgreSQL · Nginx · Gunicorn · Git
-```
+Backend-focused Software Engineer building reliable, scalable, and maintainable web applications and REST APIs with Python and Django. Experienced in database design with PostgreSQL, and in deploying and configuring production services on Linux with Nginx and Gunicorn.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Backend
+**Backend:** Python · Django · Django REST Framework · REST APIs
 
-* 🐍 **Python**
-* 🌐 **Django**
-* ⚡ **Django REST Framework**
-* 🔌 **REST APIs**
+**Database & Infrastructure:** PostgreSQL · Linux · Nginx · Gunicorn
 
-### Database & Infrastructure
-
-* 🐘 **PostgreSQL**
-* 🐧 **Linux**
-* 🌍 **Nginx**
-* 🚀 **Gunicorn**
-
-### Development Tools
-
-* 🔀 **Git**
-* 🐙 **GitHub**
-* 🦊 **GitLab**
-* 🧪 **Unit Testing**
-* 📮 **Postman**
-* 📚 **Swagger / OpenAPI**
+**Tools:** Git · GitHub · GitLab · Unit Testing · Postman · Swagger / OpenAPI
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📚 [iqtisodiybilim.uz](https://iqtisodiybilim.uz)
+**[iqtisodiybilim.uz](https://iqtisodiybilim.uz)**
+An educational web platform for economic literacy in Uzbekistan.
+Stack: Python · Django · PostgreSQL
 
-A Django-powered blog focused on **economics articles and educational content**.
+**[xasanbayev.uz](https://xasanbayev.uz)**
+Personal developer portfolio, built with Django and custom template architecture.
+Stack: Python · Django · HTML · CSS · JavaScript
 
-**Stack:** Python · Django · PostgreSQL
-
----
-
-### 💻 [xasanbayev.uz](https://xasanbayev.uz)
-
-My personal developer portfolio, built with **Django** and designed around an engineer's terminal/editor aesthetic.
-
-**Stack:** Python · Django · HTML · CSS · JavaScript
+**[ReelGo Bot](https://t.me/reelgo_bot)**
+A Telegram bot for downloading Instagram Reels, videos, and photos, with audio recognition via the Shazam API.
+Stack: Python · Aiogram · yt-dlp
 
 ---
 
-### 🤖 [ReelGo Bot](https://t.me/reelgo_bot)
+## Resume
 
-A Telegram bot for quickly downloading **Instagram Reels, videos, and photos**.
-
-**Stack:** Python · Aiogram · yt-dlp
+[Download CV](https://xasanbayev.uz/cv.pdf)
 
 ---
 
-## 📄 Resume
+## Contact
 
-Interested in my experience and technical background?
-
-**[Download my CV](https://xasanbayev.uz/cv.pdf)**
-
----
-
-## 📫 Connect With Me
-
-* 📧 **Email:** [xasanbayevturdiali7@gmail.com](mailto:xasanbayevturdiali7@gmail.com)
-* 💬 **Telegram:** [@turdialixasanbayev](https://t.me/turdialixasanbayev)
-* 💻 **GitHub:** [@turdialixasanbayev](https://github.com/turdialixasanbayev)
-* 🌐 **Portfolio:** [xasanbayev.uz](https://xasanbayev.uz)
-
----
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   $ git status                               │
-│                                              │
-│   On branch main                             │
-│   Your branch is up to date.                │
-│                                              │
-│   ✓ Building                                 │
-│   ✓ Learning                                 │
-│   ✓ Improving                                │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-> **Build it. Ship it. Improve it.**
->
-> — Turdiali Khasanbayev
+Email: [xasanbayevturdiali7@gmail.com](mailto:xasanbayevturdiali7@gmail.com)
+Telegram: [@turdialixasanbayev](https://t.me/turdialixasanbayev)
+GitHub: [@turdialixasanbayev](https://github.com/turdialixasanbayev)
+Portfolio: [xasanbayev.uz](https://xasanbayev.uz)
