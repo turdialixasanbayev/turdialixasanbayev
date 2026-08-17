@@ -1,4 +1,4 @@
-# Turdiali Khasanbayev
+# Turdiali Xasanbayev
 
 Software Engineer — Python / Backend
 
