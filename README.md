@@ -1,6 +1,6 @@
 # Turdiali Xasanbayev
 
-Software Engineer — Python / Backend
+Software Engineer - Python / Backend
 
 Backend-focused Software Engineer building reliable, scalable, and maintainable web applications and REST APIs with Python and Django. Experienced in database design with PostgreSQL, and in deploying and configuring production services on Linux with Nginx and Gunicorn.
 
@@ -25,10 +25,6 @@ Stack: Python · Django · PostgreSQL
 **[xasanbayev.uz](https://xasanbayev.uz)**
 Personal developer portfolio, built with Django and custom template architecture.
 Stack: Python · Django · HTML · CSS · JavaScript
-
-**[ReelGo Bot](https://t.me/reelgo_bot)**
-A Telegram bot for downloading Instagram Reels, videos, and photos, with audio recognition via the Shazam API.
-Stack: Python · Aiogram · yt-dlp
 
 ---
 
