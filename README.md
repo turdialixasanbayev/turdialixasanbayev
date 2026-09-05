@@ -8,11 +8,11 @@ Backend-focused Software Engineer building reliable, scalable, and maintainable 
 
 ## Tech Stack
 
-**Backend:** Python · Django · Django REST Framework · REST APIs
+**Backend:** Python · Django · Django REST Framework
 
 **Database & Infrastructure:** PostgreSQL · Linux · Nginx · Gunicorn
 
-**Tools:** Git · GitHub · GitLab · Unit Testing · Postman · Swagger / OpenAPI
+**Tools:** Git · GitHub · Postman · Swagger
 
 ---
 
