@@ -96,6 +96,12 @@ Instagram'dan Reels videolari va rasmlarni yuklab olish, shuningdek, musiqa nomi
 
 **Loyiha:** [@reelgo_bot](https://t.me/reelgo_bot)
 
+### 5. [telegraph.xasanbayev.uz](https://telegraph.xasanbayev.uz)
+
+Telegraph - bu foydalanuvchilarga ro'yxatdan o'tmasdan maqola yozish va ulashish imkonini beruvchi Django veb-ilovasi. Telegram'ning [Telegraph](https://telegra.ph/) xizmatidan ilhomlanib yaratilgan.
+
+**Texnologiyalar:** Python, Django, Nginx, Gunicorn, Cloudflare.
+
 ## 📊 GitHub Stats
 
 ![GitHub statistikasi](https://github-readme-stats.vercel.app/api?username=turdialixasanbayev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
